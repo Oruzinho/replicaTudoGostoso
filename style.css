@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #f0f0f0;
+    color: #000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+a {
+    text-decoration: none;
+    color: #ff6a28;
+}
+
+header {
+    text-align: center;
+    background-color: #ff6a28;
+}
+
+.logo {
+    padding: 0.6em 0;
+}
+
+section,
+footer {
+    max-width: 990px;
+    margin: auto;
+}
+
+section {
+    padding: 30px 40px 10px 40px;
+}
+
+footer {
+    text-align: center;
+    color: #595959;
+    font-weight: 300;
+    padding: 0 40px 20px 40px;
+}
+
+.card {
+    background-color: #fff;
+    padding: 10px 20px 25px 25px;
+    border-radius: 10px;
+    margin: 10px 0 40px 0;
+}
+
+.card:hover {
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);
+}
+
+h1,
+h2 {
+    color: #ff6a28;
+    margin: 10px 0 15px 0;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 27px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 22px;
+    /* margin-left: 150px; */
+}
+
+.card-title {
+    margin-left: 200px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.card-content {
+    margin: 10px 0 20px 23px;
+}
+
+.icons {
+    margin-right: 10px;
+}
+
+.ingredient-list,
+.prep-list {
+    line-height: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.button {
+    background-color: #ff6a28;
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    border: none;
+    border-radius: 200px;
+    padding: 12px 20px;
+}
+
+.card-button {
+    margin: 35px 0 10px 0;
+}
+
+.card-extra-info {
+    max-width: 640px;
+    text-align: center;
+    background-color: #f0f0f0;
+    font-weight: 700;
+    padding: 10px 15px;
+    margin: 30px 0 40px 0;
+}
+
+.card-extra-info a {
+    color: #595959;
+}
+
+.extra-info {
+    color: #595959;
+    line-height: 24px;
+    font-weight: 300;
+}
+
+.extra-info h2,
+.extra-info p {
+    max-width: 840px;
+}
+
+.extra-info h2 {
+
+    color: #595959;
+    line-height: 37px;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.extra-info p {
+    font-weight: 300;
+    margin: 25px 0;
+}
+
+.extra-end p {
+    line-height: 0;
+}
