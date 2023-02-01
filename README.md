@@ -1,14 +1,13 @@
 <h1 align="center"> Réplica - Tudo Gostoso </h1>
 
 <p align="center">
-Réplica das páginas de receitas do site Tudo Gostoso, a fim de praticar.<br/>
+📝 - Réplica de uma página de receita do site Tudo Gostoso, realizada a fim de praticar desenvolvimento Web.
 </p>
-
 <p align="center">
-  <img alt="Preview Receita" src="preview.png" width="100%">
+<img src="./assets/cake.webp">
 </p>
 
 <p align="center">
 💻️ - Foi utilzado HTML e CSS no projeto. 
 </p>
-
+<p align="center">🖱️ - Acesse a página clicando <a href="Oruzinho.github.io/replicaTudoGostoso">aqui</a></p>
