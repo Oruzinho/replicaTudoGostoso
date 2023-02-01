@@ -10,4 +10,4 @@
 <p align="center">
 💻️ - Foi utilzado HTML e CSS no projeto. 
 </p>
-<p align="center">🖱️ - Acesse a página clicando <a href="Oruzinho.github.io/replicaTudoGostoso">aqui</a></p>
+<p align="center">🖱️ - Acesse a página clicando <a href="https://oruzinho.github.io/replicaTudoGostoso/">aqui</a></p>
